@@ -1,1 +1,1 @@
-# Medical-Misinformation-Detection-Model
+# Medical Misinformation Detection Model
